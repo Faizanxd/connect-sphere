@@ -25,8 +25,9 @@ A minimalist LinkedIn-style web app for user registration, posting content, and 
 
 > Replace with your actual deployed URLs
 
-- **Frontend (Vercel):** [https://your-frontend.vercel.app](https://your-frontend.vercel.app)
-- **Backend (Render):** [https://your-backend.onrender.com](https://your-backend.onrender.com)
+- **Frontend (Vercel):** : ( https://connect-sphere-delta.vercel.app/)
+- **Backend (Render):** : ( https://connect-sphere-x8so.onrender.com ) 
+  -note : if you don't see any posts the render hosted backend might've gone to sleep so just click the backend click for 1-2mins to wake it up.
 
 ---
 
