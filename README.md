@@ -101,4 +101,3 @@ connect-sphere/
 
 ❌ Delete your own posts
 
-📱 Fully responsive design
